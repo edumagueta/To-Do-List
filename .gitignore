@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
+To-Do-List.iml
 
 ### Eclipse ###
 .apt_generated
